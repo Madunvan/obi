@@ -514,7 +514,7 @@ body::before {
     display: none;
   }
   .card {
-    min-width: 120px;   /* ✅ lebih kecil */
+    min-width: 60px;   /* ✅ lebih kecil */
     flex: 0 0 auto;
     scroll-snap-align: center;
     font-size: 0.7rem;
