@@ -502,7 +502,7 @@ body::before {
   }
 
   /* === KATALOG SLIDER DI HP (≤ 420px) === */
-@media (max-width: 420px) {
+@media (max-width: 100px) {
   .catalog-slider {
     display: flex;
     overflow-x: auto;
